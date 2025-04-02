@@ -1,0 +1,3 @@
+Saco | Quantidade: 2 | Preço unitário: R$ 12.0
+Macarrao | Quantidade: 3 | Preço unitário: R$ 5.0
+caca | Quantidade: 2 | Preço unitário: R$ 11.0
